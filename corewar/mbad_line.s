@@ -1,0 +1,4 @@
+.name "Douceur"
+.comment "DA WARUDO ORAORAORAORAORAORAORAORAORAORAORAORAORA"
+
+	st      r2, 256
